@@ -1,0 +1,3 @@
+nombre: peluqueria
+usuario: root
+contraseña:
